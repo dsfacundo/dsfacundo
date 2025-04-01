@@ -1,6 +1,6 @@
 ![texto inicial](https://capsule-render.vercel.app/api?type=waving&height=225&color=1C768F&text=Hello%20world!👋&fontAlign=50&fontAlignY=30&descAlign=50&descAlignY=50&desc=My%20name%20is%20Davi&descSize=30&animation=fadeIn&textBg=false&strokeWidth=-16&stroke=FFFFFF&fontSize=70)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C768F&center=true&vCenter=true&width=435&lines=About+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=1C768F&center=true&vCenter=true&width=435&lines=++++About+me)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
