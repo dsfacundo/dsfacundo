@@ -5,10 +5,10 @@
 </div>  
   
 
-### <div align="center">I am a third-semester Software Engineering student at the Federal University of Ceará.</div>  
+### <div align="center">I am a fourth-semester Software Engineering student at the Federal University of Ceará.</div>  
   
 
-- 🌱 I’m currently learning Data Struct  
+- 🌱 Currently developing my Integrated Project in Software Engineering  
   
 
 - 📈 I am currently participating in the UFC Extension Project Grant team.  
