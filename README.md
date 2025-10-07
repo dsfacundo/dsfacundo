@@ -8,7 +8,7 @@
 ### <div align="center">I am a fourth-semester Software Engineering student at the Federal University of Ceará.</div>  
   
 
-- 🌱 Currently developing my Integrated Project in Software Engineering  
+- 🌱 Currently developing my Integrated Project in Software Engineering.
   
 
 - 📈 I am currently participating in the UFC Extension Project Grant team.  
